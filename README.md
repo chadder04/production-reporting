@@ -7,13 +7,13 @@ Created a application to manage daily Production Report data including downtime 
 
 ### Final Product
 
-![ProductionReporting](https://github.com/chadder04/production-reporting/blob/master/docs/2.PNG)
-
 ![ProductionReporting](https://github.com/chadder04/production-reporting/blob/master/docs/6.PNG)
+
+![ProductionReporting](https://github.com/chadder04/production-reporting/blob/master/docs/2.PNG)
 
 ![ProductionReporting](https://github.com/chadder04/production-reporting/blob/master/docs/7.PNG)
 
-![ProductionReporting](https://github.com/chadder04/production-reporting/blob/master/docs/8.PNG)
+![ProductionReporting](https://github.com/chadder04/production-reporting/blob/master/docs/8.png)
 
-![ProductionReporting](https://github.com/chadder04/production-reporting/blob/master/docs/9.PNG)
+![ProductionReporting](https://github.com/chadder04/production-reporting/blob/master/docs/9.png)
 
